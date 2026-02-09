@@ -14,3 +14,45 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# 👋 Hi, I'm Rohan S Kadam
+
+🎓 Computer Science / AI / Data Science  
+💻 Python | Machine Learning | Cloud | SD-WAN  
+🚀 Enthusiastic programmer and problem solver
+
+---
+
+## 🧠 Skills
+- Python
+- Data Science
+- Machine Learning
+- Cloud Computing
+- Git & GitHub
+
+---
+
+## 📜 Certifications
+- Python Programming – CodeClause
+- Data Science Internship – The Spark Foundation
+- Data Scraping Internship – Praesidium Technologies
+- Machine Learning Project – Mushroom Classification
+
+*(Add year or certificate links if you want)*
+
+---
+
+## 💼 Projects
+- **Plagiarism Detector using Python**
+- **Music Player using Python**
+- **Text Editor using Tkinter**
+- **Mushroom Classification (ML)**
+
+---
+
+## 📫 Contact
+- GitHub: https://github.com/KRohancoder
+- Email: your@email.com
+- LinkedIn: (optional)
+
+---
+⭐ Always learning and building.
