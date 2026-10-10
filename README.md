@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 # 👋 Hi, I'm Rohan S Kadam
 
 🎓 Computer Science / AI / Data Science  
-💻 Python | Machine Learning | Cloud | SD-WAN  
+💻 Software devloper
 🚀 Enthusiastic programmer and problem solver
 
 ---
